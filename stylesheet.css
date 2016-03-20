@@ -1,0 +1,170 @@
+
+
+body {
+	padding: 0 20px 50px 20px;
+	background: linear-gradient(to bottom, #ffffff, #4ddbff);
+}
+
+.resume{
+	visibility: hidden;
+}
+
+header {
+	margin-bottom: 25px;
+}
+
+header h1 {
+	font-family: 'Poiret One',  sans-serif;
+	font-weight: 400;
+	font-size: 48px;
+	text-align: center;
+	
+}
+
+.photo {
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+}
+
+.photo .hatself{
+	height: 150px;
+	width: auto;
+	display: block;
+	position: absolute;
+	border: 1px solid black;
+	top: 75px;
+	right: 50px;
+}
+
+.photo .niceshirt{
+	height: 150px;
+	width: auto;
+	overflow: hidden;
+	display: block;
+	position: absolute;
+	border: 1px solid black;
+	top: 125px;
+	right: 215px;
+	z-index: 1;
+}
+
+.photo .nohatself{
+	height: 150px;
+	width: auto;
+	overflow: hidden;
+	display: block;
+	position: absolute;
+	border: 1px solid black;
+	top: 190px;
+	right: 65px;
+
+}
+
+
+
+
+header p {
+	font-family: helvetica;
+	font-style: italic;
+	margin: auto;
+}
+
+article {
+	border-top: 5px solid #777777;
+	text-align: auto;
+
+}
+
+article  h1{
+	font-family: 'Poiret One',  sans-serif;
+	font-size: 32px;
+	text-align: center;
+	border-radius: 25px 1px 45px 25px;
+	border: 1px solid #aaaaaa;
+	margin-left: 450px;
+	margin-right: 475px;
+	box-shadow: 2px 1px 10px #777777;
+}
+
+article p{
+	font-family: helvetica;
+	font-size: 18px;
+	font-style: italic;
+	margin: auto;
+}
+
+.workexperience {
+	border-top: 5px solid #777777;
+	margin-top: 25px;
+}
+
+.workexperience h2 {
+	font-family: 'Poiret One',  sans-serif;
+	font-size: 32px;
+	text-align: center;
+	border-radius: 1px 25px 25px 45px;
+	border: 1px solid #aaaaaa;
+	margin-left: 450px;
+	margin-right: 475px;
+	box-shadow: 2px 1px 10px #777777;
+}
+
+.workexperience section h3 {
+	font-family: helvetica;
+	font-style: bold;
+}
+
+.workexperience section  h4 {
+	font-family: helvetica;
+	font-style: bold
+}
+
+.workexperience section  p {
+	font-family: helvetica;
+	font-style: italic;
+	margin: auto;
+}
+.workexperience section  li {
+	font-family: helvetica;
+	font-style: italic;
+	margin: auto;
+}
+
+.Education {
+	border-top: 5px solid #777777;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.Education h2 {
+	font-family: 'Poiret One',  sans-serif;
+	font-size: 32px;
+	text-align: center;
+	border-radius: 25px 45px 1px 25px;
+	border: 1px solid #aaaaaa;
+	margin-left: 450px;
+	margin-right: 475px;
+	box-shadow: 2px 1px 10px #777777;
+
+}
+
+.Education section  h3{
+	font-family: helvetica;
+	font-style: bold;
+}
+
+.Education section  p {
+	font-family: helvetica;
+	font-style: italic;
+	margin: auto;
+}
+
+.Education section  li {
+	font-family: helvetica;
+	font-style: italic;
+	margin: auto;
+}
+
+
+
